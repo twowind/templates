@@ -10,7 +10,6 @@
         "HTTPS_PROXY": "https://192.168.2.109:7890",
         "NO_PROXY": "localhost,127.0.0.1,*.example.com"
     },
-	"postCreateCommand": "npm install -g @devcontainers/cli",
 	"customizations": {
 		"vscode": {
 			"extensions": [
