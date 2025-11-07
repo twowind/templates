@@ -6,9 +6,9 @@
 		}
 	},
 	    "containerEnv": {
-        "HTTP_PROXY": "http://192.168.2.109:7890",
-        "HTTPS_PROXY": "https://192.168.2.109:7890",
-        "NO_PROXY": "localhost,127.0.0.1,*.example.com"
+        "HTTP_PROXY": "http://192.168.0.105:10900",
+        "HTTPS_PROXY": "http://192.168.0.105:10900",
+        "NO_PROXY": "localhost,127.0.0.1,*.example.com,18.210.38.137,ainew.metajoy.io"
     },
 	"customizations": {
 		"vscode": {
